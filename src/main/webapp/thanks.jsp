@@ -28,7 +28,7 @@
         <input type="submit" value="Return">
     </form>
 
-    <a href="https://wepr-g6-site.herokuapp.com/" class="home-button">Về trang chủ</a>
+    <a href="https://wepr-g6-site.herokuapp.com/assignments.jsp" class="home-button">Về trang chủ</a>
 
 </body>
 </html>

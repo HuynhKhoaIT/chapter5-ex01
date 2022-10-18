@@ -12,7 +12,7 @@
 <p>The server was not able to find the file you requested.</p>
 <p>To continue, click the Back button.</p>
 
-<a href="https://wepr-g6-site.herokuapp.com/" class="home-button">Về trang chủ</a>
+<a href="https://wepr-g6-site.herokuapp.com/assignments.jsp" class="home-button">Về trang chủ</a>
 
 </body>
 </html>
